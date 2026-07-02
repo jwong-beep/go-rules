@@ -1,3 +1,7 @@
+Version 1.24.0
+--------------
+    * Support licences in go_library
+
 Version 1.23.0
 --------------
     * Be able to specify whether to add tests (#346)
